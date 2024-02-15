@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @reyradaalo
 - 👀 I’m interested in drawing 
 - 🌱 I’m currently learning programming
-
-![4eiD](https://github.com/reyradaalo/reyradaalo/assets/157566151/eede10e1-c440-4ccd-8a15-13651d4dad06)
-
+![341083502_1378386836295755_7757003023469792169_n](https://github.com/reyradaalo/reyradaalo/assets/157566151/91d21b33-5fb9-461d-8730-39479ab92ada)
 
 <!---
 reyradaalo/reyradaalo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
