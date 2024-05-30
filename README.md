@@ -17,7 +17,7 @@
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Rey Sab) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Jnra6) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=reyradaalo&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=reyradaalo&theme=dracula&hide_border=false)<br/>
