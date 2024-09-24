@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="reyradaalo" /> </p>
 
-- 🔭 I’m currently **BSIS 1st year Student**
+- 🔭 I’m currently **BSIS 2nd year Student**
 
 - 🌱 I’m currently learning **Python**
 
